@@ -15,4 +15,4 @@
 ## Follow me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/konst-shevchenko/)
-[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=social&logo=Telegram)](https://tme.ru/Shevchenkostya)
+[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=social&logo=Telegram)](https://t.me/Shevchenkostya)
