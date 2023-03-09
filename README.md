@@ -12,4 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=plastic&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-informational?style=plastic&logo=express)
 
-Follow me
+## Follow me
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/konst-shevchenko/)
+[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=social&logo=Telegram)](t-do.ru/Shevchenkostya)
