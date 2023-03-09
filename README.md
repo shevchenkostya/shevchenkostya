@@ -16,3 +16,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/konst-shevchenko/)
 [![Telegram](https://img.shields.io/badge/-Telegram-informational?style=social&logo=Telegram)](https://t.me/Shevchenkostya)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shevchenkostya&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevchenkostya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
