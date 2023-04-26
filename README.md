@@ -1,8 +1,6 @@
 
 <h1 align="start">Hi, I'm Konstantin!</h1>
 
-<h2 align="center">Welcome to my github profile</h2>
-
 <h3 align="end">Languages and technologies that I use</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=plastic&logo=javascript)
