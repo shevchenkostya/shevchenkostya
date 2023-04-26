@@ -1,7 +1,7 @@
 
 <h1 align="start">Hi, I'm Konstantin!</h1>
 
-<h3 align="end">Languages and technologies that I use</h3>
+<h3 align="start">Languages and technologies that I use</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=plastic&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=plastic&logo=css3)
